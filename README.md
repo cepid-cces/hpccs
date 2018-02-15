@@ -1,8 +1,8 @@
 High Performance Collision Cross Section Calculation – HPCCS
 
-This program is licensed granted by STATE UNIVERSITY OF CAMPINAS – UNICAMP (the “University”) for use of HIGH PERFORMANCE COLLISION CROSS SECTION - HPCCS (“the Software”) through this website https://github.com/cepid-cces/hpccs (the ”Website”). By downloading the Software through the Website, you (the “Licensee”) are confirming that you agree that your use of the Software is subject to the academic license terms. For more information about HPCCS please contact: skaf@iqm.unicamp.br (Munir Skaf) or leandro.zanotto@gmail.com (Leandro Zanotto).
-
 Citation: Zanotto, L., Heerdt, G., Souza, P. C. T., Araujo, G. & Skaf, M. S. (in press). High Performance Collision Cross Section Calculation - HPCCS. Journal of Computational Chemistry, 2018, DOI: 10.1002/jcc.25199.
+
+This program is licensed granted by STATE UNIVERSITY OF CAMPINAS – UNICAMP (the “University”) for use of HIGH PERFORMANCE COLLISION CROSS SECTION - HPCCS (“the Software”) through this website https://github.com/cepid-cces/hpccs (the ”Website”). By downloading the Software through the Website, you (the “Licensee”) are confirming that you agree that your use of the Software is subject to the academic license terms. For more information about HPCCS please contact: skaf@iqm.unicamp.br (Munir Skaf) or leandro.zanotto@gmail.com (Leandro Zanotto).
 
 •	How To Compile HPCCS:
 Modify the HPCCS source directory in the Makefile (line 3):
