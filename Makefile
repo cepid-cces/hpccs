@@ -7,7 +7,7 @@
 #
 #  For Debug CCFLAGS= -g -O2 -std=c++0x -fopenmp -m64 -mtune=native -ftree-vectorize -mavx -ffast-math -fopt-info-vec-optimized
 SRC_DIR=src
-CCFLAGS= -O2 -std=c++0x -fopenmp -m64 -mtune=native -ftree-vectorize -mavx -ffast-math
+CCFLAGS= -O3 -std=c++0x -fopenmp -m64 -mtune=native -mavx -fma -ffast-math
 INC_DIR = ${HOME}/HPCCS
 CC=g++
 LDFLAGS=
