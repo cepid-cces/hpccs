@@ -5,9 +5,9 @@
 #	Unicamp - University of Campinas
 #	Use this file to compile using GCC
 #
-#  For Debug CCFLAGS= -g -O2 -std=c++0x -fopenmp -m64 -mtune=native -ftree-vectorize -mavx -ffast-math -fopt-info-vec-optimized
+#  For Debug CCFLAGS= -g -O3 -std=c++0x -fopenmp -march=native -mtune=native -ffast-math -fopt-info-vec-optimized
 SRC_DIR=src
-CCFLAGS= -O3 -std=c++0x -fopenmp -m64 -mtune=native -mavx -mfma -ffast-math
+CCFLAGS= -O3 -std=c++0x -fopenmp -march=native -mtune=native -mfma -ffast-math
 INC_DIR = ${HOME}/HPCCS
 CC=g++
 LDFLAGS=
