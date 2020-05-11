@@ -26,7 +26,7 @@ Works with Intel and GCC.
 
 =================Running===================
 
-To run just ente ./hpccs filnename.pqr
+To run just enter ./hpccs filnename.pqr
 
 ===========================================
 
